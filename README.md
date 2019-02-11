@@ -4,6 +4,9 @@
 Install dependencies by execute
 `npm i`
 
+Create file .env by path src/. The file should contain next string:
+`DATABASE=mongodb://[pathToDb]`
+
 run mongod
 
 run server: src/
